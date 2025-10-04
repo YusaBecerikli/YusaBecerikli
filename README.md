@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhaba! Ben Muhammed Yuşa Becerikli, bilim ve teknolojiye olan tutkumla öne çıkan 16 yaşında genç bir yazılım geliştiriciyim.
+Merhaba! Ben Muhammed Yuşa Becerikli, bilim ve teknolojiye olan tutkumla öne çıkan 17 yaşında genç bir yazılım geliştiriciyim.
 
 2022'de düzenlenen 53. TÜBİTAK Araştırma Projeleri Yarışması'nda yazılım alanında Türkiye finallerine yükseldim ve teşvik ödülü kazandım.
 2023'de düzenlenen 54. TÜBİTAK Araştırma Projeleri Yarışması'nda yazılım alanında Bölge finallerine yükseldim ve ikincilik ödülü kazandım.
