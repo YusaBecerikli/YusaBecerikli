@@ -2,11 +2,15 @@
 Merhaba! Ben Muhammed Yuşa Becerikli, 18 yaşında İYTE Bilgisayar Mühendisliği okuyan genç bir yazılım geliştiriciyim.
 
 2022'de düzenlenen 53. TÜBİTAK Araştırma Projeleri Yarışması'nda yazılım alanında Türkiye finallerine yükseldim ve teşvik ödülü kazandım.
+
 2023'de düzenlenen 54. TÜBİTAK Araştırma Projeleri Yarışması'nda yazılım alanında Bölge finallerine yükseldim ve ikincilik ödülü kazandım.
+
 2024'te düzenlenen 55. TÜBİTAK Araştırma Projeleri Yarışması'nda yazılım alanında üçüncülük ödülüne layık görüldüm.
+
 2023'te Teknofest 2023 İnsanlık Yararına Teknoloji Yarışması'nda Afet Yönetimi Kategorisinde finalist oldum.
+
 Amerika Büyükelçiliği tarafından desteklenen STREAM IT UP projesinin birinci döneminde 81 Bilim Elçisinden biri olarak seçildim.
-Yaşımın genç olmasına rağmen, bilim ve teknolojiye olan ilgim ve azmimle bu başarıları elde etmek beni mutlu ediyor. Gelecekte de bu alanda kendimi geliştirmeye devam etmeyi planlıyorum.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Squerk#5014) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/becerikliyusa) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/SquerkK) 
